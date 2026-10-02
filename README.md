@@ -22,7 +22,8 @@
 
 <br>
 
-# AI Shell
+# Ollama AI Shell
+This is a fork of the original [ai-shell](https://github.com/BuilderIO/ai-shell) aimed to make it work with local models and ollama
 
 ## Setup
 
